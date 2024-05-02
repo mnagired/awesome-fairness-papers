@@ -242,6 +242,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 50. [Mind Your Bias: A Critical Review of Bias Detection Methods for Contextual Language Models](https://aclanthology.org/2022.findings-emnlp.311/). Silke Husse, Andreas Spitz. EMNLP 2022
 51. [Bias Against 93 Stigmatized Groups in Masked Language Models and Downstream Sentiment Classification Tasks](https://dl.acm.org/doi/10.1145/3593013.3594109). Katelyn X. Mei, Sonia Fereidooni, Aylin Caliskan. ACM FAccT 2023
 52. [On the Independence of Association Bias and Empirical Fairness in Language Models](https://dl.acm.org/doi/10.1145/3593013.3594004). Laura Cabello, Anna Katrine Jørgensen, Anders Søgaard. ACM FAccT 2023
+53. [SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/30142). Manish Nagireddy, Lamogha Chiazor, Moninder Singh, Ioana Baldini. AAAI 2024 Technical Track on Safe, Robust and Responsible AI Track
 
 ##### Bias Mitigation
 1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
